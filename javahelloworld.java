@@ -4,6 +4,7 @@ public class JavaHelloWorld
   {
     system.out.println("My first java program");
     system.out.println("Hello again");
+    system.out.println("auto trigger")
   }
 
 }
