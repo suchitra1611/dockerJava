@@ -1,0 +1,9 @@
+public class JavaHelloWorld
+{
+  public static void main (string [] args)
+  {
+    system.out.println("My first java program");
+    system.out.println("Hello again");
+  }
+
+}
